@@ -1,0 +1,1320 @@
+
+{
+    "id": 683984771,
+    "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+    "username": "moeinmoradi-dev",
+    "firstName": "Moein",
+    "lastName": "Moradi",
+    "isCreator": true,
+    "isOpenToWork": false,
+    "isHiring": false,
+    "profilePicture": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU",
+    "backgroundImage": [
+        {
+            "width": 800,
+            "height": 200,
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQEfKpy9LMKAUQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1715088857159?e=1735776000&v=beta&t=jhAKKE9Y7HBvbkZ-d21m5c56P-LmW_m2_iDJRVFNgXE"
+        },
+        {
+            "width": 1080,
+            "height": 270,
+            "url": "https://media.licdn.com/dms/image/v2/D4D16AQEfKpy9LMKAUQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1715088857159?e=1735776000&v=beta&t=xsPba9kin4g_3Ls7G3q1v81ToI7NFV2rZPeQqJiKEV8"
+        }
+    ],
+    "summary": "I embarked on my journey in app development six years ago, initially delving into Ionic framework during an internship. Subsequently, I ventured into Java for Android app development, honing my skills in text processing from images.\n\nFollowing a friend's recommendation, I transitioned to Flutter, Google's latest offering, and explored its nascent developer community. As I immersed myself in Flutter, I undertook diverse app projects, encountering challenges ranging from authentication services to notification handling and server integration.\n\nI also ventured into specialized tasks, such as crafting music players, chat applications, and even an Augmented Reality system that places three-dimensional images onto surfaces, providing image outputs from this environment.\n\nThroughout this journey, I assimilated various architectural paradigms, with Test-Driven Development (TDD) and Model-View-Controller (MVC) being my steadfast allies. I seamlessly integrated some of the most renowned state management solutions, achieving mastery in Bloc, GetX, and provider.\n\nWith a portfolio of eleven applications, each excelling in distinct domains, some already in the public domain and others on the cusp of release, I stand poised to take on new challenges in mobile app development.",
+    "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+    "geo": {
+        "country": "Iran",
+        "city": "Tehran, Tehran Province",
+        "full": "Tehran, Tehran Province, Iran"
+    },
+    "languages": [
+        {
+            "name": "English",
+            "proficiency": "PROFESSIONAL_WORKING"
+        },
+        {
+            "name": "German",
+            "proficiency": "ELEMENTARY"
+        },
+        {
+            "name": "Persian",
+            "proficiency": "NATIVE_OR_BILINGUAL"
+        }
+    ],
+    "educations": [
+        {
+            "start": {
+                "year": 2016,
+                "month": 0,
+                "day": 0
+            },
+            "end": {
+                "year": 2021,
+                "month": 0,
+                "day": 0
+            },
+            "fieldOfStudy": "Computer Software Engineering",
+            "degree": "Bachelor of Engineering - BE",
+            "grade": "",
+            "schoolName": "Payame Noor University (Distance Education)",
+            "description": "",
+            "activities": "",
+            "url": "https://www.linkedin.com/school/payame-noor-university-distance-education-/",
+            "schoolId": "5827371"
+        }
+    ],
+    "position": [
+        {
+            "companyId": 100254331,
+            "companyName": "SamarTech",
+            "companyUsername": "samarsharif",
+            "companyURL": "https://www.linkedin.com/company/samarsharif/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXnKh2GpfC7g/company-logo_400_400/company-logo_400_400/0/1699104559343?e=1738800000&v=beta&t=jV_fKnAnC6-5a8ItaZUnYrTqbgEnA0IA962z8g5-k1U",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Mobile Application Developer",
+            "multiLocaleTitle": {
+                "en_US": "Mobile Application Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "SamarTech"
+            },
+            "location": "Tehran, Tehran Province, Iran",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 93327266,
+            "companyName": "exploria",
+            "companyUsername": "exploriatravel",
+            "companyURL": "https://www.linkedin.com/company/exploriatravel/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFFONLjs6931g/company-logo_400_400/company-logo_400_400/0/1678719238874?e=1738800000&v=beta&t=7CRqtGJv1eEA2L3aantHXYpizEHaLxteWl7QWBvp45o",
+            "companyIndustry": "Leisure, Travel & Tourism",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Senior Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Senior Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "exploria"
+            },
+            "location": "Dubai, United Arab Emirates",
+            "description": "• Spearheaded the application development team, responsible for identifying the best solutions and plugins.\n• Implemented initial project setups and widget componentization.\n• Utilized BLoC for effective state management and integrated dependencies with the Get_it plugin.\n• Achieved a 50% speed increase in application response times by implementing GraphQL in APIs for quicker access to server-side resources and information.",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 28516578,
+            "companyName": "Zaman",
+            "companyUsername": "zaman-corp",
+            "companyURL": "https://www.linkedin.com/company/zaman-corp/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFYao0VtGgGFw/company-logo_400_400/company-logo_400_400/0/1630531112668/zaman_edge_logo?e=1738800000&v=beta&t=So7O4eUVU3MMne5b_IYjPICh9-u0XBi9zeD92LiEjLQ",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Senior Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Senior Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Zaman"
+            },
+            "location": "North Sydney, New South Wales, Australia",
+            "description": "• Planned the progress of the app development project and divided the tasks of the app development team\n• Assisted the Back-End development team in designing the data of the models submitted to the app\n• Utilized uni_link plugin to manage links sent through notifications, seamlessly directing users to the relevant pages.\n• Implemented url_launcher plugin for displaying web pages based on user tokens within the application.\n• Updated the chat interface through Firebase notifications, providing a real-time stream of chat messages.",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2021,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 2022,
+                "month": 7,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 1815815,
+            "companyName": "Dreamdays.ae",
+            "companyUsername": "dreamdays",
+            "companyURL": "https://www.linkedin.com/company/dreamdays/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFONm3_c7vthg/company-logo_400_400/company-logo_400_400/0/1665214592122/dreamdays_logo?e=1738800000&v=beta&t=JsSj3Bc4PtemaX_DJZZ_wymy9uGlJoMJOr_mt0Gemzk",
+            "companyIndustry": "Retail",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Dreamdays.ae"
+            },
+            "location": "Dubai, United Arab Emirates",
+            "description": "• Designed, programmed, reviewed and unit test using flutter framework, dart, java Script, etc.\n• Worked with other internal software development teams on integration engineering\n• Troubleshot applications, identified bottlenecks and bugs, and devised solutions to mitigate and address issues.\n• Developed mobile application based on MVC architecture\n• Optimized product codes on “Get X State Management” which increased software performance by 30%",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2020,
+                "month": 2,
+                "day": 0
+            },
+            "end": {
+                "year": 2021,
+                "month": 6,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 13981954,
+            "companyName": "atron team",
+            "companyUsername": "atron-team",
+            "companyURL": "https://www.linkedin.com/company/atron-team/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH07tpfzE1wcw/company-logo_400_400/company-logo_400_400/0/1630546690879?e=1738800000&v=beta&t=dw3CcndZgK_2LAyzOSHMgJTp-FDcrgtNePpeMIBP_OA",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Co-Founder & Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Co-Founder & Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "atron team"
+            },
+            "location": "Isfahan Province, Iran",
+            "description": "• Planned development of consumer websites based on market needs and increase customer sales up to 60%\n• Joined the R&D team to find market needs and come up with ideas to solve problems\n• Led development of 5 store and service applications based on Android and iOS using helicopter technology",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2017,
+                "month": 9,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 10,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 0,
+            "companyName": "Rahanj Co.",
+            "companyUsername": "",
+            "companyURL": "",
+            "companyLogo": "",
+            "companyIndustry": "",
+            "companyStaffCountRange": "",
+            "title": "Mobile Developer intern",
+            "multiLocaleTitle": {
+                "en_US": "Mobile Developer intern"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Rahanj Co."
+            },
+            "location": "Esfahan, Iran",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2016,
+                "month": 10,
+                "day": 0
+            },
+            "end": {
+                "year": 2017,
+                "month": 8,
+                "day": 0
+            }
+        }
+    ],
+    "fullPositions": [
+        {
+            "companyId": 100254331,
+            "companyName": "SamarTech",
+            "companyUsername": "samarsharif",
+            "companyURL": "https://www.linkedin.com/company/samarsharif/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXnKh2GpfC7g/company-logo_400_400/company-logo_400_400/0/1699104559343?e=1738800000&v=beta&t=jV_fKnAnC6-5a8ItaZUnYrTqbgEnA0IA962z8g5-k1U",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Mobile Application Developer",
+            "multiLocaleTitle": {
+                "en_US": "Mobile Application Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "SamarTech"
+            },
+            "location": "Tehran, Tehran Province, Iran",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 93327266,
+            "companyName": "exploria",
+            "companyUsername": "exploriatravel",
+            "companyURL": "https://www.linkedin.com/company/exploriatravel/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFFONLjs6931g/company-logo_400_400/company-logo_400_400/0/1678719238874?e=1738800000&v=beta&t=7CRqtGJv1eEA2L3aantHXYpizEHaLxteWl7QWBvp45o",
+            "companyIndustry": "Leisure, Travel & Tourism",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Senior Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Senior Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "exploria"
+            },
+            "location": "Dubai, United Arab Emirates",
+            "description": "• Spearheaded the application development team, responsible for identifying the best solutions and plugins.\n• Implemented initial project setups and widget componentization.\n• Utilized BLoC for effective state management and integrated dependencies with the Get_it plugin.\n• Achieved a 50% speed increase in application response times by implementing GraphQL in APIs for quicker access to server-side resources and information.",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2023,
+                "month": 1,
+                "day": 0
+            },
+            "end": {
+                "year": 2023,
+                "month": 12,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 28516578,
+            "companyName": "Zaman",
+            "companyUsername": "zaman-corp",
+            "companyURL": "https://www.linkedin.com/company/zaman-corp/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQFYao0VtGgGFw/company-logo_400_400/company-logo_400_400/0/1630531112668/zaman_edge_logo?e=1738800000&v=beta&t=So7O4eUVU3MMne5b_IYjPICh9-u0XBi9zeD92LiEjLQ",
+            "companyIndustry": "Information Technology & Services",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Senior Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Senior Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Zaman"
+            },
+            "location": "North Sydney, New South Wales, Australia",
+            "description": "• Planned the progress of the app development project and divided the tasks of the app development team\n• Assisted the Back-End development team in designing the data of the models submitted to the app\n• Utilized uni_link plugin to manage links sent through notifications, seamlessly directing users to the relevant pages.\n• Implemented url_launcher plugin for displaying web pages based on user tokens within the application.\n• Updated the chat interface through Firebase notifications, providing a real-time stream of chat messages.",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2021,
+                "month": 7,
+                "day": 0
+            },
+            "end": {
+                "year": 2022,
+                "month": 7,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 1815815,
+            "companyName": "Dreamdays.ae",
+            "companyUsername": "dreamdays",
+            "companyURL": "https://www.linkedin.com/company/dreamdays/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/D4D0BAQFONm3_c7vthg/company-logo_400_400/company-logo_400_400/0/1665214592122/dreamdays_logo?e=1738800000&v=beta&t=JsSj3Bc4PtemaX_DJZZ_wymy9uGlJoMJOr_mt0Gemzk",
+            "companyIndustry": "Retail",
+            "companyStaffCountRange": "11 - 50",
+            "title": "Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Dreamdays.ae"
+            },
+            "location": "Dubai, United Arab Emirates",
+            "description": "• Designed, programmed, reviewed and unit test using flutter framework, dart, java Script, etc.\n• Worked with other internal software development teams on integration engineering\n• Troubleshot applications, identified bottlenecks and bugs, and devised solutions to mitigate and address issues.\n• Developed mobile application based on MVC architecture\n• Optimized product codes on “Get X State Management” which increased software performance by 30%",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2020,
+                "month": 2,
+                "day": 0
+            },
+            "end": {
+                "year": 2021,
+                "month": 6,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 13981954,
+            "companyName": "atron team",
+            "companyUsername": "atron-team",
+            "companyURL": "https://www.linkedin.com/company/atron-team/",
+            "companyLogo": "https://media.licdn.com/dms/image/v2/C4D0BAQH07tpfzE1wcw/company-logo_400_400/company-logo_400_400/0/1630546690879?e=1738800000&v=beta&t=dw3CcndZgK_2LAyzOSHMgJTp-FDcrgtNePpeMIBP_OA",
+            "companyIndustry": "Computer Software",
+            "companyStaffCountRange": "2 - 10",
+            "title": "Co-Founder & Flutter Developer",
+            "multiLocaleTitle": {
+                "en_US": "Co-Founder & Flutter Developer"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "atron team"
+            },
+            "location": "Isfahan Province, Iran",
+            "description": "• Planned development of consumer websites based on market needs and increase customer sales up to 60%\n• Joined the R&D team to find market needs and come up with ideas to solve problems\n• Led development of 5 store and service applications based on Android and iOS using helicopter technology",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2017,
+                "month": 9,
+                "day": 0
+            },
+            "end": {
+                "year": 2019,
+                "month": 10,
+                "day": 0
+            }
+        },
+        {
+            "companyId": 0,
+            "companyName": "Rahanj Co.",
+            "companyUsername": "",
+            "companyURL": "",
+            "companyLogo": "",
+            "companyIndustry": "",
+            "companyStaffCountRange": "",
+            "title": "Mobile Developer intern",
+            "multiLocaleTitle": {
+                "en_US": "Mobile Developer intern"
+            },
+            "multiLocaleCompanyName": {
+                "en_US": "Rahanj Co."
+            },
+            "location": "Esfahan, Iran",
+            "description": "",
+            "employmentType": "Full-time",
+            "start": {
+                "year": 2016,
+                "month": 10,
+                "day": 0
+            },
+            "end": {
+                "year": 2017,
+                "month": 8,
+                "day": 0
+            }
+        }
+    ],
+    "skills": [
+        {
+            "name": "Point of Sale (POS) Systems",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Internet of Things (IoT)",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": " bloc ",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Socket.io",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Dependency Injection",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Mobile Application Development",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Mobile Solutions",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Firebase",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "TDD Architecture",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "JSON Web Token (JWT)",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "WordPress APIs",
+            "passedSkillAssessment": false
+        },
+        {
+            "name": "Firebase Messaging",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Clean Architecture",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Google Auth",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Google Authentication",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Live Streaming",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Google Maps API",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "GetX",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "Provider",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 2
+        },
+        {
+            "name": "Bloc ",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "WebSocket",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "pusher",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "graph ql",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "Model-View-Controller (MVC)",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "Test-Driven Development",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        },
+        {
+            "name": "Flutter",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 11
+        },
+        {
+            "name": "Android Studio",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 12
+        },
+        {
+            "name": "Java",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 11
+        },
+        {
+            "name": "Android Development",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 10
+        },
+        {
+            "name": "Control Systems Design",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 7
+        },
+        {
+            "name": "Ionic Framework",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 7
+        },
+        {
+            "name": "JavaScript",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 7
+        },
+        {
+            "name": "WordPress",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 7
+        },
+        {
+            "name": "JavaSE",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 7
+        },
+        {
+            "name": "AngularJS",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 5
+        },
+        {
+            "name": "jQuery",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 6
+        },
+        {
+            "name": "SQLite",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 5
+        },
+        {
+            "name": "Android",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 6
+        },
+        {
+            "name": "SQL",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 5
+        },
+        {
+            "name": "Dart",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 6
+        },
+        {
+            "name": "TypeScript",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 5
+        },
+        {
+            "name": "Git",
+            "passedSkillAssessment": false,
+            "endorsementsCount": 3
+        }
+    ],
+    "givenRecommendation": null,
+    "givenRecommendationCount": 0,
+    "receivedRecommendation": null,
+    "receivedRecommendationCount": 0,
+    "courses": null,
+    "certifications": [
+        {
+            "name": "ATTENTION TO DETAIL",
+            "start": {
+                "year": 2024,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "TestDome",
+            "company": {
+                "name": "TestDome",
+                "universalName": "testdome",
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGybnEADjiqUg/company-logo_200_200/company-logo_200_200/0/1630571650449/testdome_logo?e=1738800000&v=beta&t=gaDY7OMaleUY9t1-qpJb0jQq9kVnh9S8fO96jLEcuiI",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        },
+        {
+            "name": "Flutter Certificate",
+            "start": {
+                "year": 2024,
+                "month": 5,
+                "day": 0
+            },
+            "end": {
+                "year": 0,
+                "month": 0,
+                "day": 0
+            },
+            "authority": "TheDigitalAdda",
+            "company": {
+                "name": "TheDigitalAdda",
+                "universalName": "thedigitaladda",
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHjvtKepNJrsQ/company-logo_200_200/company-logo_200_200/0/1631402556894/thedigitaladda_logo?e=1738800000&v=beta&t=CTkynFokYiKm9poRxsJ57kpqECy_L1542Ywg_1_vflw",
+                "staffCountRange": {},
+                "headquarter": {}
+            },
+            "timePeriod": {
+                "start": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                },
+                "end": {
+                    "year": 0,
+                    "month": 0,
+                    "day": 0
+                }
+            }
+        }
+    ],
+    "honors": null,
+    "projects": {
+        "total": 8,
+        "items": [
+            {
+                "title": "iTicket",
+                "description": "Android project for kiosks in cinemas and public places to reserve cinema and theater tickets",
+                "start": {
+                    "year": 2024,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2024,
+                    "month": 2,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    },
+                    {
+                        "urn": "ACoAACTwgN8BjrTRAfsclPEEdtZzTQp3DiIw0Zs",
+                        "username": "abbas-hasani",
+                        "fullName": "Abbas Hasani",
+                        "firstName": "Abbas",
+                        "lastName": "Hasani",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1528545510254?e=1735776000&v=beta&t=-WwfNbnLl609dmDOPHf7kgWm6Cger-IAYhR45n7OC8s"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1528545510269?e=1735776000&v=beta&t=QqJAs3fj3cOVq-1U0sO4q4IXPBfEJu2c72BY8pxmbBg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1528545510409?e=1735776000&v=beta&t=UyGq4wafXSGUqxExP8blG3a8MILHwZ5PQcDEeoprJq4"
+                            },
+                            {
+                                "width": 560,
+                                "height": 560,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1528545510217?e=1735776000&v=beta&t=JzhlJmRhLRykL4wenZ9t3jh5Fs657aZ__dDgVys2tK0"
+                            }
+                        ],
+                        "headline": "Frontend Tech Lead",
+                        "url": "https://www.linkedin.com/in/abbas-hasani"
+                    },
+                    {
+                        "urn": "ACoAABeHC8UBolGdFpRZ2l-2iwS5qU2QuG68-gA",
+                        "username": "mahdiraad",
+                        "fullName": "Mahdi Mosaddeghi Raad",
+                        "firstName": "Mahdi",
+                        "lastName": "Mosaddeghi Raad",
+                        "profilePicture": null,
+                        "headline": "Establishing a new corporation…",
+                        "url": "https://www.linkedin.com/in/mahdiraad"
+                    },
+                    {
+                        "urn": "ACoAABxq9NsB444sq3ML6TGExGBC8ShTy4tNOR0",
+                        "username": "hamidreza-niakan-563805113",
+                        "fullName": "hamidreza NIakan",
+                        "firstName": "hamidreza",
+                        "lastName": "NIakan",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQEP8uLjhlytvQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726251911256?e=1735776000&v=beta&t=ECUk9YT_3kRFdqVNJ9u-xXNfS_uBQphTOICY7KJTUWE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQEP8uLjhlytvQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1726251911256?e=1735776000&v=beta&t=f33ISO3Kz13cbERbroNH5iPlZdLtnRCHtzEd_V0QRVc"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQEP8uLjhlytvQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1726251911256?e=1735776000&v=beta&t=04KgV1YKEY8uJ0qiltldaq5net2zisu0lmt9PPInljk"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQEP8uLjhlytvQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726251911278?e=1735776000&v=beta&t=vNoyeJTABzJmL6v2QIbwd2HkWSSfaMCwZpI3p7HhvrY"
+                            }
+                        ],
+                        "headline": "Backend Developer (PHP-Laravel-Livewire-Golang)",
+                        "url": "https://www.linkedin.com/in/hamidreza-niakan-563805113"
+                    }
+                ]
+            },
+            {
+                "title": "Exploria",
+                "description": "The Exploria app is designed for those seeking guided tours in Middle Eastern countries. It even allows users to create personalized itineraries for others, ensuring they experience the best tourist spots in the city.",
+                "start": {
+                    "year": 2023,
+                    "month": 2,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2023,
+                    "month": 8,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    },
+                    {
+                        "urn": "ACoAACTwgN8BjrTRAfsclPEEdtZzTQp3DiIw0Zs",
+                        "username": "abbas-hasani",
+                        "fullName": "Abbas Hasani",
+                        "firstName": "Abbas",
+                        "lastName": "Hasani",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1528545510254?e=1735776000&v=beta&t=-WwfNbnLl609dmDOPHf7kgWm6Cger-IAYhR45n7OC8s"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1528545510269?e=1735776000&v=beta&t=QqJAs3fj3cOVq-1U0sO4q4IXPBfEJu2c72BY8pxmbBg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1528545510409?e=1735776000&v=beta&t=UyGq4wafXSGUqxExP8blG3a8MILHwZ5PQcDEeoprJq4"
+                            },
+                            {
+                                "width": 560,
+                                "height": 560,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1528545510217?e=1735776000&v=beta&t=JzhlJmRhLRykL4wenZ9t3jh5Fs657aZ__dDgVys2tK0"
+                            }
+                        ],
+                        "headline": "Frontend Tech Lead",
+                        "url": "https://www.linkedin.com/in/abbas-hasani"
+                    }
+                ]
+            },
+            {
+                "title": "Atropress",
+                "description": "This application is for people, who have a WordPress website and want to manage that with their phone",
+                "start": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 7,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    },
+                    {
+                        "urn": "ACoAACoDpQ4B2AYx4EPKWFuVx320w84TVKJs5uA",
+                        "username": "aminjafari-dev",
+                        "fullName": "Amin Jafari",
+                        "firstName": "Amin",
+                        "lastName": "Jafari",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697468147536?e=1735776000&v=beta&t=vETF2-B7WaE7ayAgGg935yPUJZJzAuzzCMYppHS3eqc"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697468147536?e=1735776000&v=beta&t=TKCbMbzB0R9KoQfSoff22eutG2GP2vffCUEJGK9UdK0"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1697468147536?e=1735776000&v=beta&t=HL2MWkSgpbZv4Bl3QCr0NXsFBWAGka-v4A7CGnE31J4"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697468147536?e=1735776000&v=beta&t=iz3RGZenwo04HomZtAYZNBhukzk_QjueAlAjHZJSYRw"
+                            }
+                        ],
+                        "headline": "Senior Flutter developer | Collaborate 15+ Successful Projects | Co-founder of Successful Dev Team | 6.5 Years of Mobile App Mastery | Bloc, Google APIs, TDD | Android, IOS, Cross-Platform App",
+                        "url": "https://www.linkedin.com/in/aminjafari-dev"
+                    }
+                ]
+            },
+            {
+                "title": "Engenesis",
+                "description": "The Engenesis app is an app to connect with mentors and programs of the Engenesis team so that you can empower yourself in terms of personal and professional growth.",
+                "start": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 5,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    }
+                ]
+            },
+            {
+                "title": "Myelin",
+                "description": "As a Senior Flutter Developer in the Myelin project, I had to optimize the features of the old version of the app and prepare for the new version. My responsibilities included implementing key features and ensuring the application's robustness. Myelin is an innovative application designed for people who practice meditation and yoga and for MS patients.",
+                "start": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2022,
+                    "month": 3,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    },
+                    {
+                        "urn": "ACoAACcfqRQB6Qu7ECdXZW52p_zSNe2Hg4XSKFc",
+                        "username": "mohammadaminlv",
+                        "fullName": "MohammadAmin Alavi",
+                        "firstName": "MohammadAmin",
+                        "lastName": "Alavi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/C4D03AQHJQ9Ki6DSTMQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1562797911796?e=1735776000&v=beta&t=d7uKgjacrBE6Wigbw7UMOaP1JnzEWATuq_SULT1IKsQ"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/C4D03AQHJQ9Ki6DSTMQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1562797911893?e=1735776000&v=beta&t=vCDDv03KOOe8U3rv9ciKNAz1xyR5aM97SHi7hbtw_ng"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/C4D03AQHJQ9Ki6DSTMQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1562797912427?e=1735776000&v=beta&t=S40dWUa-Mql2cqlnMvkP4JFAXUx0P04gJ_-0WN8NaM0"
+                            },
+                            {
+                                "width": 500,
+                                "height": 500,
+                                "url": "https://media.licdn.com/dms/image/v2/C4D03AQHJQ9Ki6DSTMQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1562797911877?e=1735776000&v=beta&t=pGR5ifKjfsR-ZcUarmfzng91dreII2UWEK7h8tK0zVw"
+                            }
+                        ],
+                        "headline": "Full Stack Developer at Zaman",
+                        "url": "https://www.linkedin.com/in/mohammadaminlv"
+                    }
+                ]
+            },
+            {
+                "title": "Filit",
+                "description": "The aim of the Filit project was to create a mobile application dedicated to the resale of second-hand household appliances. This platform enabled users to effortlessly sell their pre-owned appliances, contributing to sustainability and affordability in the household appliance market.",
+                "start": {
+                    "year": 2021,
+                    "month": 8,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 10,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    }
+                ]
+            },
+            {
+                "title": "Turpal",
+                "description": "In the Turpal project, I took on the role of a Senior Flutter Developer. I was responsible for leading the development efforts, implementing complex features, and ensuring the overall robustness of the application. Turpal is an application designed for People who plan to travel to tourist countries.",
+                "start": {
+                    "year": 2020,
+                    "month": 10,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2021,
+                    "month": 6,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    },
+                    {
+                        "urn": "ACoAACTwgN8BjrTRAfsclPEEdtZzTQp3DiIw0Zs",
+                        "username": "abbas-hasani",
+                        "fullName": "Abbas Hasani",
+                        "firstName": "Abbas",
+                        "lastName": "Hasani",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1528545510254?e=1735776000&v=beta&t=-WwfNbnLl609dmDOPHf7kgWm6Cger-IAYhR45n7OC8s"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1528545510269?e=1735776000&v=beta&t=QqJAs3fj3cOVq-1U0sO4q4IXPBfEJu2c72BY8pxmbBg"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1528545510409?e=1735776000&v=beta&t=UyGq4wafXSGUqxExP8blG3a8MILHwZ5PQcDEeoprJq4"
+                            },
+                            {
+                                "width": 560,
+                                "height": 560,
+                                "url": "https://media.licdn.com/dms/image/v2/C5603AQF1_kmCHYXXHw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1528545510217?e=1735776000&v=beta&t=JzhlJmRhLRykL4wenZ9t3jh5Fs657aZ__dDgVys2tK0"
+                            }
+                        ],
+                        "headline": "Frontend Tech Lead",
+                        "url": "https://www.linkedin.com/in/abbas-hasani"
+                    }
+                ]
+            },
+            {
+                "title": "Alget",
+                "description": "In the Alget project, I served as a Mid-Level Flutter Developer, focusing on developing and implementing key features of the Alget application. Alget is a customer management platform for the service industry in the Netherlands. Leveraging the Flutter framework, we delivered an exceptional user experience.",
+                "start": {
+                    "year": 2019,
+                    "month": 5,
+                    "day": 0
+                },
+                "end": {
+                    "year": 2020,
+                    "month": 8,
+                    "day": 0
+                },
+                "contributors": [
+                    {
+                        "urn": "ACoAACjEx4MBJqx9bno-zjo0wvfDQFXYrTpyyW8",
+                        "username": "moeinmoradi-dev",
+                        "fullName": "Moein Moradi",
+                        "firstName": "Moein",
+                        "lastName": "Moradi",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1715005196989?e=1735776000&v=beta&t=hFAg7UcPhXiadQg3jBvBMhKZTKvFRtV9ZcuRLp3hdcE"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715005196989?e=1735776000&v=beta&t=fgRgytE0SgGW4ZEz8K6UvLk-kzmfUPZi2AYrKrZqBgE"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1715005196989?e=1735776000&v=beta&t=9TggAcI4TV9nanMm-0t2NQfgdNVdBz-enBB0HDLtw2A"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4D03AQFVa2Qlow_KbA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1715005196989?e=1735776000&v=beta&t=ZEv_wVe-rLa0EzZcA5WnsN9F49tKu1M37eJP6fpBGNU"
+                            }
+                        ],
+                        "headline": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)",
+                        "url": "https://www.linkedin.com/in/moeinmoradi-dev"
+                    },
+                    {
+                        "urn": "ACoAACoDpQ4B2AYx4EPKWFuVx320w84TVKJs5uA",
+                        "username": "aminjafari-dev",
+                        "fullName": "Amin Jafari",
+                        "firstName": "Amin",
+                        "lastName": "Jafari",
+                        "profilePicture": [
+                            {
+                                "width": 100,
+                                "height": 100,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697468147536?e=1735776000&v=beta&t=vETF2-B7WaE7ayAgGg935yPUJZJzAuzzCMYppHS3eqc"
+                            },
+                            {
+                                "width": 200,
+                                "height": 200,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1697468147536?e=1735776000&v=beta&t=TKCbMbzB0R9KoQfSoff22eutG2GP2vffCUEJGK9UdK0"
+                            },
+                            {
+                                "width": 400,
+                                "height": 400,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1697468147536?e=1735776000&v=beta&t=HL2MWkSgpbZv4Bl3QCr0NXsFBWAGka-v4A7CGnE31J4"
+                            },
+                            {
+                                "width": 800,
+                                "height": 800,
+                                "url": "https://media.licdn.com/dms/image/v2/D4E03AQFAznv8b5WI7A/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1697468147536?e=1735776000&v=beta&t=iz3RGZenwo04HomZtAYZNBhukzk_QjueAlAjHZJSYRw"
+                            }
+                        ],
+                        "headline": "Senior Flutter developer | Collaborate 15+ Successful Projects | Co-founder of Successful Dev Team | 6.5 Years of Mobile App Mastery | Bloc, Google APIs, TDD | Android, IOS, Cross-Platform App",
+                        "url": "https://www.linkedin.com/in/aminjafari-dev"
+                    }
+                ]
+            }
+        ]
+    },
+    "volunteering": null,
+    "supportedLocales": [
+        {
+            "country": "US",
+            "language": "en"
+        }
+    ],
+    "multiLocaleFirstName": {
+        "en": "Moein"
+    },
+    "multiLocaleLastName": {
+        "en": "Moradi"
+    },
+    "multiLocaleHeadline": {
+        "en": "Senior Flutter Developer | Mobile App Architect | Expert in Clean Code & State Management (Bloc, GetX, Provider)"
+    }
+}

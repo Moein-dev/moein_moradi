@@ -21,7 +21,7 @@ class App extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Moein Moradi',
         theme: ThemeData(
-          fontFamily: AppFonts.openSans,
+          fontFamily: AppFonts.sfPro,
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),

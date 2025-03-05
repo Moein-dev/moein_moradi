@@ -76,7 +76,7 @@ class SplashPage extends StatelessWidget {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 48,
-                  fontFamily: AppFonts.openSans,
+                  fontFamily: AppFonts.sfPro,
                   fontWeight: FontWeight.bold,
                 ),
               )

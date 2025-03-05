@@ -42,7 +42,7 @@ class HomePage extends StatelessWidget {
                   "Senior Flutter Developer",
                   style: TextStyle(
                     fontSize: 64,
-                    fontFamily: AppFonts.openSans,
+                    fontFamily: AppFonts.sfPro,
                     fontWeight: FontWeight.bold,
                     height: 0.84,
                   ),

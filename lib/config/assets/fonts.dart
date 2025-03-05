@@ -1,3 +1,3 @@
 class AppFonts {
-  static String openSans = "OpenSans";
+  static String sfPro = "SFPro";
 }

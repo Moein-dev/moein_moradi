@@ -38,19 +38,15 @@ flutter:
     - assets/svg/
 
   fonts:
-    - family: OpenSans
+    - family: SFPro
       fonts:
-        - asset: assets/fonts/OpenSans-Light.ttf
-          weight: 300
-        - asset: assets/fonts/OpenSans-Regular.ttf
+        - asset: assets/fonts/SFPro-Regular.ttf
           weight: 400
-        - asset: assets/fonts/OpenSans-Medium.ttf
+        - asset: assets/fonts/SFPro-Medium.ttf
           weight: 500
-        - asset: assets/fonts/OpenSans-Bold.ttf
-          weight: 700
-        - asset: assets/fonts/OpenSans-SemiBold.ttf
+        - asset: assets/fonts/SFPro-Semibold.ttf
           weight: 600
-        - asset: assets/fonts/OpenSans-Bold.ttf
+        - asset: assets/fonts/SFPro-Bold.ttf
           weight: 700
-        - asset: assets/fonts/OpenSans-ExtraBold.ttf
-          weight: 800
+        - asset: assets/fonts/SFPro-Black.ttf
+          weight: 900

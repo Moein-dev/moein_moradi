@@ -124,64 +124,65 @@ class _PackagesLayoutState extends State<PackagesLayout> {
                         ),
                       ),
                       const Spacer(),
-                      Container(
-                        height: 38,
-                        decoration: BoxDecoration(
-                          borderRadius: BorderRadius.circular(6),
-                          color: const Color(0xffe7f8ff),
-                        ),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.start,
-                          crossAxisAlignment: CrossAxisAlignment.center,
-                          mainAxisSize: MainAxisSize.min,
-                          children: [
-                            Padding(
-                              padding: const EdgeInsets.all(10.0),
-                              child: Text(
-                                "PLATFORM",
-                                style: TextStyle(
-                                  fontSize: 13,
-                                  fontWeight: FontWeight.bold,
-                                  color: platformColor,
+                      if (package.latest!.pubspec!.platforms != null)
+                        Container(
+                          height: 38,
+                          decoration: BoxDecoration(
+                            borderRadius: BorderRadius.circular(6),
+                            color: const Color(0xffe7f8ff),
+                          ),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.start,
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              Padding(
+                                padding: const EdgeInsets.all(10.0),
+                                child: Text(
+                                  "PLATFORM",
+                                  style: TextStyle(
+                                    fontSize: 13,
+                                    fontWeight: FontWeight.bold,
+                                    color: platformColor,
+                                  ),
                                 ),
                               ),
-                            ),
-                            VerticalDivider(
-                              color: platformColor.withOpacity(0.3),
-                              width: 1,
-                            ),
-                            Padding(
-                              padding:
-                                  const EdgeInsets.symmetric(horizontal: 5.0),
-                              child: Row(
-                                mainAxisAlignment:
-                                    MainAxisAlignment.spaceBetween,
-                                crossAxisAlignment: CrossAxisAlignment.center,
-                                mainAxisSize: MainAxisSize.min,
-                                children: List.generate(
-                                  package.latest!.pubspec!.platforms!
-                                      .platfomrsCount!,
-                                  (index) {
-                                    String platform = package.latest!.pubspec!
-                                        .platforms!.platforms![index];
-                                    return Padding(
-                                      padding: const EdgeInsets.symmetric(
-                                          horizontal: 5),
-                                      child: Text(
-                                        platform,
-                                        style: TextStyle(
-                                          fontSize: 13,
-                                          color: platformColor,
+                              VerticalDivider(
+                                color: platformColor.withOpacity(0.3),
+                                width: 1,
+                              ),
+                              Padding(
+                                padding:
+                                    const EdgeInsets.symmetric(horizontal: 5.0),
+                                child: Row(
+                                  mainAxisAlignment:
+                                      MainAxisAlignment.spaceBetween,
+                                  crossAxisAlignment: CrossAxisAlignment.center,
+                                  mainAxisSize: MainAxisSize.min,
+                                  children: List.generate(
+                                    package.latest!.pubspec!.platforms!
+                                        .platfomrsCount!,
+                                    (index) {
+                                      String platform = package.latest!.pubspec!
+                                          .platforms!.platforms![index];
+                                      return Padding(
+                                        padding: const EdgeInsets.symmetric(
+                                            horizontal: 5),
+                                        child: Text(
+                                          platform,
+                                          style: TextStyle(
+                                            fontSize: 13,
+                                            color: platformColor,
+                                          ),
                                         ),
-                                      ),
-                                    );
-                                  },
+                                      );
+                                    },
+                                  ),
                                 ),
                               ),
-                            ),
-                          ],
+                            ],
+                          ),
                         ),
-                      ),
                     ],
                   ),
                 ),
